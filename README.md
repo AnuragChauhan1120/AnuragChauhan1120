@@ -1,7 +1,7 @@
 
 
-# 💫 About Me:
-Hi 👋, I'm Anurag Chauhan<br>Final-year undergraduate at IIT Roorkee with a strong interest in ML/AI ,data science & analytics and problem-solving.<br>I build data-driven models with a strong focus on problem formulation, feature engineering, and evaluation. I enjoy building real-world projects focusing on model interpretability, performance, and validation.
+# 💫 About Me: Hi 👋, I'm Anurag Chauhan
+<br>Final-year undergraduate at IIT Roorkee with a strong interest in ML/AI ,data science & analytics and problem-solving.<br>I build data-driven models with a strong focus on problem formulation, feature engineering, and evaluation. I enjoy building real-world projects focusing on model interpretability, performance, and validation.
 
 
 ## 🌐 Socials:
